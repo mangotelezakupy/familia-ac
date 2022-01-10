@@ -1,7 +1,9 @@
-fx_version 'bodacious'
-games { 'gta5' }
+fx_version 'cerulean'
+game 'gta5'
 
 author 'papaya'
+description 'familia-anticheat'
+version '1.0'
 
 shared_script 'config.lua'
 
